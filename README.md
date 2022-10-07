@@ -18,5 +18,5 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 # License (Commerical)
 
-The Commerical License is under LICENSE_PRO.md. [Purchase
+The Commerical License is under [LICENSE_PRO.md](./LICENSE_PRO.md). [Purchase
 the License](https://sowl.co/s/nAt8n) for all commercial uses.
