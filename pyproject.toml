@@ -2,6 +2,7 @@
 name = "crowdsh"
 version = "0.1.0"
 readme = "README.md"
+homepage = "https://crowd.sh"
 description = ""
 authors = ["Abhi Yerra <abhi@berkeley.edu>"]
 
