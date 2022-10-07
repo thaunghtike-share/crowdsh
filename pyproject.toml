@@ -2,6 +2,7 @@
 name = "crowdsh"
 version = "0.1.0"
 readme = "README.md"
+description = ""
 authors = ["Abhi Yerra <abhi@berkeley.edu>"]
 
 [tool.poetry.dependencies]
@@ -10,6 +11,9 @@ yattag = "^1.14.0"
 pynamodb = "^5.2.1"
 bs4 = "^0.0.1"
 bleach = "^5.0.1"
+airtable-python-wrapper = "^0.15.3"
+boto3 = "^1.24.88"
+markdown2 = "^2.4.5"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"

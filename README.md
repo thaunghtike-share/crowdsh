@@ -16,4 +16,7 @@ GNU Affero General Public License for more details.
 You should have received a copy of the GNU Affero General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 
-# License (Pro)
+# License (Commerical)
+
+The Commerical License is under LICENSE_PRO.md. [Purchase
+the License](https://sowl.co/s/nAt8n) for all commercial uses.
