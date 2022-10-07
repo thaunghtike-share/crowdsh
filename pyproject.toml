@@ -1,11 +1,15 @@
 [tool.poetry]
 name = "crowdsh"
 version = "0.1.0"
-description = ""
+readme = "README.md"
 authors = ["Abhi Yerra <abhi@berkeley.edu>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+yattag = "^1.14.0"
+pynamodb = "^5.2.1"
+bs4 = "^0.0.1"
+bleach = "^5.0.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
